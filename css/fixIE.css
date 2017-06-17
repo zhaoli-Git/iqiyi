@@ -1,0 +1,98 @@
+.topbar-entertainment .searchbtn .text{
+	border:0;
+}
+.todayfocus{
+	overflow: hidden;
+}
+.topnav .upload{
+	overflow: hidden;
+}
+.topnav .san-ico,.topnav .red,.topnav .vip{
+	overflow: hidden;
+}
+.news-item .play{
+	overflow: hidden;
+}
+.hd-ico,.time-ico{
+	overflow: hidden;
+}
+.greenico{
+	overflow: hidden;
+}
+/*.variety .variety-r{
+	display: block;
+}*/
+
+.skew{
+	overflow: hidden;
+}
+.time2-ico,.change-ico{
+	overflow: hidden;
+}
+.selfvariety-title .dubo-ico,.man-ico,.nav-tv .red{
+	overflow: hidden;
+}
+.mrank-main{
+	float: left;
+}
+.mrank-main1,.caritem,.master-main{
+	float: left;
+}
+.aiqiyi-list,.link-list,.copyright-list,.zzzy-span{
+	display:inline;
+	zoom:1;
+}
+.zoomglass,.movie-1 .dubo-ico,.topbar-navl,.topbar-nav .san-ico{
+	overflow: hidden;
+}
+.varb-item{
+	float:left;
+}
+
+.nav-line{
+	overflow: hidden;
+}
+.topnav .nav-line{
+	vertical-align: middle;
+}
+.topbar-navl .zf-1,.topbar-navl .zf-2,.topbar-navl .zf-3,.topbar-navl .zf-4,.topbar-navr .san-ico{
+	overflow: hidden;
+}
+.topbar-navl{
+	display: inline;
+}
+.dream-ico,.topbar-navr .san-ico{
+	cursor: pointer;
+}
+
+/*爱奇艺娱乐*/
+.news-ico{
+	overflow: hidden;
+}
+.footer-coo{
+	display: inline;
+	zoom:1;
+}
+.footer-coo .line{
+	overflow: hidden;
+}
+.dream-ico{
+	line-height: 28px;
+}
+.btn-wrap{
+	display: inline;
+	zoom:1;
+}
+.btn,.hothead-text .hothead-line{
+	overflow: hidden;
+}
+
+.nav-line{
+	overflow: hidden;
+}
+.item2-ico,.interact-2{
+	overflow: hidden;
+}
+.hothead-text-2,.hothead-text{
+	overflow: hidden;
+}
